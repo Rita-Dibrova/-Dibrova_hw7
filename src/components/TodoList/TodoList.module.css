@@ -1,0 +1,15 @@
+.button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+}
+.li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.content {
+    margin: 0 10px;
+}

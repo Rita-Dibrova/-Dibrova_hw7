@@ -1,0 +1,14 @@
+.button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 90px;
+    justify-content: space-between;
+}
+.name {
+    font-weight: 600;
+}
+.form {
+    margin-top: 15px;
+}
